@@ -1,6 +1,6 @@
 # firetwitter
 
-A new Flutter project.
+App Twitter cơ bản sử dụng firebase và ngôn ngữ lập trình dart 
 
 ## Getting Started
 
