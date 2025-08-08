@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721077306622",
+    "project_id": "firetwitter-45ebd",
+    "storage_bucket": "firetwitter-45ebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721077306622:android:2b663df3bc88c6403511af",
+        "android_client_info": {
+          "package_name": "com.example.firetwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721077306622-n239ieq54963hleuek1halvepj02ni69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1NpTxIJ09WFrxJgy1Tdc098_V2iewi5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721077306622-n239ieq54963hleuek1halvepj02ni69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
